@@ -34,3 +34,11 @@ Author(s)
 Steven Bird, Ewan Klein, Edward Loper
 Web address
 http://www.nltk.org/book/
+
+4. Speech and Language Processing
+Book
+(Draft)
+3rd Edition
+https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+Webpage
+https://web.stanford.edu/~jurafsky/slp3/
